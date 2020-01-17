@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTutorial", "CSharpTutorial\CSharpTutorial.csproj", "{FB9CF9EE-025F-484B-969A-52DB848BC806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9CF9EE-025F-484B-969A-52DB848BC806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9CF9EE-025F-484B-969A-52DB848BC806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9CF9EE-025F-484B-969A-52DB848BC806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9CF9EE-025F-484B-969A-52DB848BC806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
